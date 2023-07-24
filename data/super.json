@@ -1,0 +1,1322 @@
+{ 
+"CAR/AUTOMOBILE COMPANIES":{
+    "parcs_auto": [
+        {
+          "nom": "AJITOGO",
+          "adresse": "Zone Portuaire - BP 60090, Lomé - Togo",
+          "telephone": "(+228) 93 70 54 73",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "DYNAMIK CAR",
+          "adresse": "Zone Portuaire, Lomé - Togo",
+          "telephone": "(+228) 92 60 42 61",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "EXPO AUTO Sarl",
+          "adresse": "Parc MAD, Zone Portuaire - 02 BP 20835, Lomé - Togo",
+          "telephone": "(+228) 22 27 04 75",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "services": "Vente, location et achat de véhicules"
+        },
+        {
+          "nom": "STE I AM SARL ECLAIRE VOTRE MONDE",
+          "adresse": "Av. pya, face agence Togocom, dans l'immeuble de l'ex hôtel acropolis, Totsi, Lomé - Togo",
+          "telephone": "(+228) 92 20 10 93",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Entreprise citoyenne engagée dans la transition énergétique et la protection de l'environnement."
+        }],
+      "vente de voiture à Lomé et au Togo": [
+  
+        {
+          "nom": "EXPO AUTO Sarl PREMIUM",
+          "adresse": "Parc MAD, Zone Portuaire - 02 BP 20835, Lomé - Togo",
+          "telephone": "(+228) 22 27 04 75",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "services": "Vente de camions, véhicules usagés et neufs"
+        },
+        {
+          "nom": "ELIAS CARS",
+          "adresse": "Dans l’enceinte de CAR STOP, Zone portuaire, Zone Portuaire - 01 BP 20366, Lomé - Togo",
+          "telephone": "(+228) 91 06 56 56",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Spécialisé dans la vente de voitures neuves et d'occasion, couvrant la sous-région ouest-africaine."
+        },
+        {
+          "nom": "A DIEU LA FORCE",
+          "adresse": "Route Nationale N°1, A Côté de l'Imm. AK GTA, Massohoen, BP 7448, Lomé - Togo",
+          "telephone": "(+228) 99 26 88 88",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "ACHETERAUTO AO TOGO",
+          "adresse": "Minamadou, Lomé - Togo",
+          "telephone": "(+228) 93 56 17 36",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules au Togo, y compris les voitures d'occasion et les véhicules sur commande."
+        },
+        {
+          "nom": "AFRIATECH MOTORS",
+          "adresse": "320, Rue Hédzranawoé, 01 BP 4053 Lomé 01, Lomé - Togo",
+          "telephone": "(+228) 22 61 60 71",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de voitures d'occasion et de pièces détachées automobiles, ainsi que des solutions innovantes."
+        },
+        {
+          "nom": "AFRICAVMAUTO.COM",
+          "adresse": "Port Autonome de Lomé, Zone Portuaire, Lomé - Togo",
+          "telephone": "(+228) 92 10 51 49",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules d'occasion et de pièces détachées, spécialisé dans l'import-export."
+        },
+        {
+          "nom": "AIR TRANSPORT",
+          "adresse": "Route de la Pampa, Adjidogomé, BP 3182, Lomé - Togo",
+          "telephone": "(+228) 22 46 94 79",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "services": "Achat, location et vente de véhicules"
+        },
+        {
+          "nom": "AKAGLA LIVINGSTONE",
+          "adresse": "En face de l'Ecole St Raphael, Bè Kpota, Lomé - Togo",
+          "telephone": "(+228) 22 35 41 75",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente et achat d'immeuble, travaux bâtiment, location, vente et location de voiture (conseil et suivi), prestations de services..."
+        },
+        {
+          "nom": "ALLOS PARAKLETOS AUTO",
+          "adresse": "Rue Parc Otoci, zone portuaire, Lomé - 228 - Togo",
+          "telephone": "(+228) 91 41 66 99",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Commerce général, vente de véhicules et pièces détachées automobiles, import-export"
+        },
+        {
+          "nom": "AMEWOU'S SHOP",
+          "adresse": "Tokoin ramco, Lomé - Togo",
+          "telephone": "(+228) 93 67 29 14",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Société en ligne spécialisée dans la recherche rapide de véhicules pour les clients."
+        },
+        {
+          "nom": "ARGENEC GROUP",
+          "adresse": "Limousine en allant vers Adidogomé, côté Droit, Avédji, Lomé - Togo",
+          "telephone": "(+228) 91 43 65 63",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de voitures d'occasion ou en provenance d'Europe, location de véhicules avec ou sans chauffeur, obtention de visas et autres services."
+        },
+        {
+          "nom": "ATTIGNON ET FILS",
+          "adresse": "Bd. du 13 Janvier, Centre Culturel en face d'Orabank, Adidogomé, Lomé - Togo",
+          "telephone": "(+228) 90 77 61 81",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "AUTO MONDE",
+          "adresse": "524 rue des oliviers, en face de la station Oando, Bè Kpota - BP 26354, Lomé - Togo",
+          "telephone": "(+228) 93 33 70 70",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Répertoire automobile mondial."
+        },
+        {
+          "nom": "AUTOBEST",
+          "adresse": "12, Rue des Mirabelles, Tokoin-Doumasséssé, 08 BP 80236, Lomé - Togo",
+          "telephone": "(+228) 93 70 93 92",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Structure visant à dynamiser l'industrie automobile togolaise et sous-régionale, offrant des véhicules neufs de toutes marques à des prix compétitifs."
+        },
+        {
+          "nom": "BEL TRADING",
+          "adresse": "Bd. Haho, Kégué, Lomé - Togo",
+          "telephone": "(+228) 22 40 96 96",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "BEMUSCO",
+          "adresse": "Bd. Jean Paul II, à 300m, sur la Route de Kpatcha Gnassingbé, Kégué - 08 BP 8968 Lomé 08, Lomé - Togo",
+          "telephone": "(+228) 22 62 98 51",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Société de location de voiture avec ou sans chauffeur, approvisionnement en chauffeurs et mécaniciens, et vente d'accessoires automobiles."
+        },
+        {
+          "nom": "BEST AUTO",
+          "adresse": "Agoè, 05 BP 88, Lomé - Togo",
+          "telephone": "(+228) 96 46 20 20",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de voitures, bus et camions à des prix compétitifs."
+        },
+        {
+          "nom": "BLUE MERIDIUS INTERNATIONAL Sarl",
+          "adresse": "Zone Portuaire, Lomé - Togo",
+          "telephone": "(+228) 98 55 29 59",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules d'occasion, de pièces détachées et de solutions innovantes. Spécialisé dans l'import-export."
+        },
+        {
+          "nom": "BRIDGES & PARTNERS AUTO",
+          "adresse": "Tokoin, Lomé - Togo",
+          "telephone": "(+228) 92 91 06 87",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Entreprise spécialisée dans la vente, l'achat, la location de voitures et de divers services de transport au TOGO."
+        },
+        {
+          "nom": "CANAL IVOIRE BUSINESS",
+          "adresse": "-", 
+          "telephone": "(+228) 79 78 94 34",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Véhicules et camions de toutes marques en provenance des USA, Europe, Asie, à vendre à des prix compétitifs au port autonome de Lomé-Togo."
+        },
+        {
+          "nom": "CENTRE AUTO TOGO",
+          "adresse": "Park G.I. à l'intérieur du Port Autonome, Zone Portuaire - BP 6080, Lomé - Togo",
+          "telephone": "(+228) 90 95 91 30",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Spécialisé dans l'achat, la vente, la location, le dédouanement et le transit de véhicules de tout type."
+        },
+        {
+          "nom": "CO-TO AUTO S.A (HYUNDAI)",
+          "adresse": "En face de Opéra boulangerie Pâtisserie, Agoè Gbonvé - 07 BP 7872, Lomé - Togo",
+          "telephone": "(+228) 22 22 35 02",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Concessionnaire exclusif de la marque automobile Hyundai, vente de pièces détachées originales et service après-vente."
+        },
+        {
+          "nom": "CROMOS TOGO",
+          "adresse": "Bd. Notre Dame des apôtres, BP 1721/ BP 3898, Lomé - Togo",
+          "telephone": "(+228) 92 57 02 48",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Ventes de véhicules d'occasion et de cosmétiques au port autonome de Lomé."
+        },
+        {
+          "nom": "DABELLA MULTISERVICES",
+          "adresse": "22, Rue Kindjaou, près de l’hôtel OKABOU, Tokoin Doumasséssé, Lomé - Togo",
+          "telephone": "(+228) 91 42 12 99",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat, vente, services automobiles et organisation de voyages, immobilier."
+        },
+        {
+          "nom": "DC AUTO",
+          "adresse": "A côté de l’Agence Moov et en face de Jess Hôtel, Adidoadin - BP 80208, Lomé - Togo",
+          "telephone": "(+228) 93 87 64 64",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Import-export spécialisé dans l'achat, la vente et la location de voitures neuves et d'occasion en provenance de l'Europe et des États-Unis."
+        },
+        {
+          "nom": "AUTO PARTNER",
+          "adresse": "Non spécifié",
+          "telephone": "Rachat et deal - Vente",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "DTG (SOCIETE ALLEMANDE DU TOGO)",
+          "adresse": "593, Av. Sylvanus Olympio, BP 299, Lomé - Togo",
+          "telephone": "(+228) 22 21 51 76",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "ECOPAL TOGO",
+          "adresse": "Rue Adebayor Sheyi, non loin de la maison d'Adebayor, Totsi, Lomé - Togo",
+          "telephone": "(+228) 93 70 46 08",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Location et vente de voitures et de machines agricoles de marques allemandes."
+        },
+        {
+          "nom": "EL JAWAD",
+          "adresse": "Bd. du Haho, à côté de la Pharmacie St Pierre, Sagboville, Hédzranawoé, Lomé - Togo",
+          "telephone": "(+228) 90 02 07 33",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "ETS ARIST TOGO",
+          "adresse": "1374, Rue du Chemin de Fer, Derrière Imm. FIATA, Dékon - BP 8014, Lomé - Togo",
+          "telephone": "(+228) 22 38 50 15",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules d'occasion, location de voitures, vente de pièces détachées, accessoires et services de réparation."
+        },
+        {
+          "nom": "ETS BALLA AFEDI SARL",
+          "adresse": "Sagbado, Route de Kpalimé, non loin de la Station Kpadapé, BP 8115, Lomé - Togo",
+          "telephone": "(+228) 22 43 10 09",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente et achat de véhicules d'occasion."
+        },
+        {
+          "nom": "ETS SEMENEH",
+          "adresse": "Bd. de la Paix, non loin du carrefour Totsi, Lomé - Togo",
+          "telephone": "(+228) 22 25 01 98",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat et vente de véhicules d'occasion."
+        },
+        {
+          "nom": "ETS. CODJOE",
+          "adresse": "Rue derrière la Station SHELL, Non loin de Togotelecom, Agbalépédogan, Lomé - Togo",
+          "telephone": "(+228) 90 36 64 04",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "ETS. TONY",
+          "adresse": "Av. De La Victoire en face de Western Union, Lomé - Togo",
+          "telephone": "(+228) 90 21 32 23",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "EXCELLENCE BUSINESS",
+          "adresse": "Immeuble IAM à côté de King Jouet, Tokoin Casablanca, Lomé - Togo",
+          "telephone": "(+228) 98 91 58 75",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de voitures neuves et d'occasion de toutes marques, et services associés."
+        },
+        {
+          "nom": "EXCELLENCE CARS SARL",
+          "adresse": "Bd. du 13 Janvier, derrière ETI, Adidogomé - 03 BP 31183, Lomé - Togo",
+          "telephone": "(+228) 22 20 06 69",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules neufs et d'occasion."
+        },
+        {
+          "nom": "EXPO AUTO Sarl PREMIUM",
+          "adresse": "Parc MAD, Zone Portuaire - 02 BP 20835, Lomé - Togo",
+          "telephone": "(+228) 22 27 04 75",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de camions, véhicules usagés et neufs."
+        },
+        {
+          "nom": "FARIDA AUTO",
+          "adresse": "Bd. du 13 Janvier, Adidogomé, Lomé - Togo",
+          "telephone": "(+228) 90 21 66 66",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules neufs et d'occasion, pièces détachées et accessoires."
+        },
+        {
+          "nom": "FLOVICO SARL",
+          "adresse": "Von en venant de la pharmacie Notre Dame de la Paix, 100m après l'EPP SITOBO, Avédji, Lomé - Togo",
+          "telephone": "(+228) 22 20 04 06",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Spécialisé dans la vente de véhicules d'occasion, la location de voitures et la mécanique auto."
+        },
+        {
+          "nom": "FUTURE IMPEX SARL",
+          "adresse": "2e rue à gauche après le CETEF, Tokoin Gbadago, Lomé - Togo",
+          "telephone": "(+228) 22 20 11 89",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Import-export, achat, vente et location de véhicules neufs et d'occasion."
+        },
+        {
+          "nom": "GOLDEN AUTO",
+          "adresse": "Immeuble Star Auto, Non loin du carrefour Cassablanca, Tokoin Casablanca, Lomé - Togo",
+          "telephone": "(+228) 22 30 36 86",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules neufs et d'occasion, pièces détachées et accessoires."
+        },
+        {
+          "nom": "GOODWILL MOTORS",
+          "adresse": "En face du Centre Hospitalier Régional d'Agoè, BP 12512, Lomé - Togo",
+          "telephone": "(+228) 22 25 55 05",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules neufs et d'occasion."
+        },
+        {
+          "nom": "GPS (Global Prestation Services)",
+          "adresse": "Autoroute de Lomé, non loin du camp GNK, Agoè Nyivé, Lomé - Togo",
+          "telephone": "(+228) 22 43 95 11",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente et achat de véhicules, accessoires automobiles, pièces détachées, location de véhicules avec ou sans chauffeur."
+        },
+        {
+          "nom": "GRANDS DOMAINES DU TOGO (GDT)",
+          "adresse": "Von, 1ère à gauche après la station TOTAL von en allant vers adidogomé, Lomé - Togo",
+          "telephone": "(+228) 90 03 05 05",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules d'occasion toutes marques."
+        },
+        {
+          "nom": "GREAT AUTO SARL",
+          "adresse": "Près du Lycée Français, derrière le poste de douane de Kpogan, Lomé - Togo",
+          "telephone": "(+228) 22 25 68 21",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Importation et vente de véhicules neufs et d'occasion, pièces détachées et accessoires."
+        },
+        {
+          "nom": "HMAO SAREL",
+          "adresse": "Rue des Colombes, Tokoin Forever en face de la Station, Lomé - Togo",
+          "telephone": "(+228) 90 70 52 22",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules neufs et d'occasion, ainsi que des pièces détachées."
+        },
+        {
+          "nom": "HYUNDAI TOGO (SARL GLOBAL BUSINESS CORPORATION)",
+          "adresse": "Bd. de la Paix, carrefour Codjoevi, Adidogomé - 01 BP 80283, Lomé - Togo",
+          "telephone": "(+228) 22 35 37 30",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Concessionnaire automobile Hyundai, vente de véhicules neufs et d'occasion, pièces détachées et service après-vente."
+        },
+        {
+          "nom": "HYUNDAI-MOTORS",
+          "adresse": "Face CEG Amadahomé, à côté de la Station, Lomé - Togo",
+          "telephone": "(+228) 22 25 25 60",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Concessionnaire Hyundai, vente de véhicules neufs et d'occasion, pièces détachées et service après-vente."
+        },
+        {
+          "nom": "IBRAHIMA CAMARA & FRERES",
+          "adresse": "En face de Total non loin du nouveau marché de Bè, Lomé - Togo",
+          "telephone": "(+228) 90 24 49 44",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat, vente et location de véhicules."
+        },
+        {
+          "nom": "IJL MOTOR SARL",
+          "adresse": "Non loin de Hôtel La Concorde, Lomé - Togo",
+          "telephone": "(+228) 70 02 58 25",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Import-export et vente de véhicules neufs et d'occasion, pièces détachées et accessoires."
+        },
+        {
+          "nom": "IMEX SARL",
+          "adresse": "Non loin de l’Eglise Bethel, Tokoin Doumasséssé, BP 81002, Lomé - Togo",
+          "telephone": "(+228) 22 20 38 36",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules d'occasion."
+        },
+        {
+          "nom": "JMS (Jean Michel SAGBO)",
+          "adresse": "Rue avant la paroisse protestante de Bé, Avédji, Lomé - Togo",
+          "telephone": "(+228) 92 23 21 96",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules d'occasion."
+        },
+        {
+          "nom": "KIKI MOTORS",
+          "adresse": "Av. Jean Paul II, 14 BP 267, Lomé - Togo",
+          "telephone": "(+228) 22 20 09 33",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Import-export de véhicules d'occasion toutes marques."
+        },
+        {
+          "nom": "LA GLOIRE",
+          "adresse": "Bd. Jean-Paul II, Non loin du Collège St Joseph, Lomé - Togo",
+          "telephone": "(+228) 22 50 47 84",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "LA PAIX",
+          "adresse": "Rue pavée, Non loin de Togocel Bè-Mékon, Lomé - Togo",
+          "telephone": "(+228) 22 21 67 87",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "LE BERGER",
+          "adresse": "Rue derrière le centre ISRA, Adidogomé, Lomé - Togo",
+          "telephone": "(+228) 22 25 23 33",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "LES FRERES",
+          "adresse": "En face de la Station de lavage Elf, Tokoin Doumasséssé, Lomé - Togo",
+          "telephone": "(+228) 90 06 01 96",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "LES MAINS UNIES",
+          "adresse": "Bd. Jean-Paul II, Non loin du Collège St Joseph, Lomé - Togo",
+          "telephone": "(+228) 22 50 47 84",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "LES VAINQUEURS",
+          "adresse": "Bd. du 13 Janvier, Adidogomé, Lomé - Togo",
+          "telephone": "(+228) 90 83 16 16",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat, vente, location de véhicules et travaux de bâtiments."
+        },
+        {
+          "nom": "LINYIME AUTO",
+          "adresse": "Sagbado, non loin de la Place publique, Lomé - Togo",
+          "telephone": "(+228) 92 01 70 02",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "MAJESTIC",
+          "adresse": "Derrière la station MOBIL de Vakpossito, Lomé - Togo",
+          "telephone": "(+228) 22 37 46 37",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "MARCO POLO",
+          "adresse": "Bd. Haho, BP 11764, Lomé - Togo",
+          "telephone": "(+228) 22 21 09 51",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "MASTER AUTO",
+          "adresse": "Agoè Assiyéyé, BP 80798, Lomé - Togo",
+          "telephone": "(+228) 22 41 36 24",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules d'occasion."
+        },
+        {
+          "nom": "MERT CAR",
+          "adresse": "Zone Portuaire, BP 30237, Lomé - Togo",
+          "telephone": "(+228) 22 21 36 44",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat et vente de véhicules d'occasion."
+        },
+        {
+          "nom": "METAL VIE SARL",
+          "adresse": "Totsi, BP 12905, Lomé - Togo",
+          "telephone": "(+228) 22 25 12 42",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules neufs et d'occasion, ainsi que des pièces détachées."
+        },
+        {
+          "nom": "MIKAF & FRERE",
+          "adresse": "Avédji, BP 80084, Lomé - Togo",
+          "telephone": "(+228) 90 09 96 65",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat, vente, et location de véhicules."
+        },
+        {
+          "nom": "MINH AUTO",
+          "adresse": "Av. A. M. D, BP 81145, Lomé - Togo",
+          "telephone": "(+228) 70 44 22 45",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules d'occasion et services de location de véhicules."
+        },
+        {
+          "nom": "MOTO7 TOGO",
+          "adresse": "Rue Sitchivi à côté du Bar Glory, Lomé - Togo",
+          "telephone": "(+228) 98 15 28 22",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat, vente, et location de motos, tricycles et accessoires."
+        },
+        {
+          "nom": "MULTI SERVICES AUTO",
+          "adresse": "Immeuble GO, Non loin de l'UTC et en face de l'Hôtel Bel'Etage, Tokoin Doumasséssé, Lomé - Togo",
+          "telephone": "(+228) 90 08 24 50",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules d'occasion."
+        },
+        {
+          "nom": "NG AUTO",
+          "adresse": "Bd. du 13 Janvier, Non loin de Jonquet, Lomé - Togo",
+          "telephone": "(+228) 22 20 55 04",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules neufs et d'occasion, ainsi que des pièces détachées."
+        },
+        {
+          "nom": "NIANG & FRERES",
+          "adresse": "En face de la direction de Total, non loin de la Station Oilibya, Lomé - Togo",
+          "telephone": "(+228) 22 40 01 23",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente, achat et location de véhicules."
+        },
+        {
+          "nom": "OCEAN EXPRESS SARL",
+          "adresse": "Zone portuaire, BP 80364, Lomé - Togo",
+          "telephone": "(+228) 22 23 11 30",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules d'occasion."
+        },
+        {
+          "nom": "OKENE CAR",
+          "adresse": "Route de Kpalimé, BP 81145, Lomé - Togo",
+          "telephone": "(+228) 22 31 08 08",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules d'occasion."
+        },
+        {
+          "nom": "OTECI",
+          "adresse": "Non loin du grand marché de Lomé, Lomé - Togo",
+          "telephone": "(+228) 90 85 57 57",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "OTI MOTORS",
+          "adresse": "Lycée Agoè-Nyivé, Non loin du CEG, Agoè-Nyivé, Lomé - Togo",
+          "telephone": "(+228) 22 22 31 88",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat, vente et location de véhicules."
+        },
+        {
+          "nom": "PAMODJO",
+          "adresse": "Immeuble ex Hôtel SHELTER, Non loin du Grand Contournement de Lomé, Lomé - Togo",
+          "telephone": "(+228) 22 25 04 38",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat, vente, location et dépannage de véhicules, et services de transit."
+        },
+        {
+          "nom": "PARTENAIRE AUTO SARL",
+          "adresse": "Immeuble Ayéva - 08 BP 80209, Lomé - Togo",
+          "telephone": "(+228) 22 20 33 30",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente et location de véhicules neufs et d'occasion."
+        },
+        {
+          "nom": "PASTORAL",
+          "adresse": "Von, non loin de la Pharmacie Populaire, Lomé - Togo",
+          "telephone": "(+228) 22 42 31 97",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat, vente et location de véhicules."
+        },
+        {
+          "nom": "PETROGUIN SARL",
+          "adresse": "Face CEG Amadahomé, Lomé - Togo",
+          "telephone": "(+228) 70 52 41 25",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "PLAMAX TOGO",
+          "adresse": "Avédji, BP 80147, Lomé - Togo",
+          "telephone": "(+228) 22 35 34 54",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat et vente de véhicules d'occasion, ainsi que des pièces détachées."
+        },
+        {
+          "nom": "POLYCAR",
+          "adresse": "Non loin de la Pharmacie Notre Dame de la Paix, Lomé - Togo",
+          "telephone": "(+228) 22 21 67 87",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat, vente et location de véhicules."
+        },
+        {
+          "nom": "PRESTIGE BUSINESS",
+          "adresse": "Bd. Jean-Paul II, Non loin de la Mosquée de Bè, Lomé - Togo",
+          "telephone": "(+228) 22 21 67 87",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat, vente et location de véhicules."
+        },
+        {
+          "nom": "PRESTIGE VOYAGES",
+          "adresse": "Face à la Station Shell, Non loin du Collège Saint Joseph, Lomé - Togo",
+          "telephone": "(+228) 22 21 67 87",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules d'occasion."
+        },
+        {
+          "nom": "REAL AUTO",
+          "adresse": "Agoè Nyivé, Lomé - Togo",
+          "telephone": "(+228) 90 84 88 88",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto"
+        },
+        {
+          "nom": "RENAULT TOGO (SODIM TP)",
+          "adresse": "Bd. du 13 Janvier, Non loin de Jonquet, Lomé - Togo",
+          "telephone": "(+228) 22 21 57 48",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Concessionnaire Renault, vente de véhicules neufs et d'occasion, pièces détachées et service après-vente."
+        },
+        {
+          "nom": "RIFAUTO",
+          "adresse": "Bd. Haho, Non loin de l'Hôtel La Concorde, Lomé - Togo",
+          "telephone": "(+228) 22 21 29 68",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules neufs et d'occasion."
+        },
+        {
+          "nom": "RIGOBERT AUTO",
+          "adresse": "Avédji, Lomé - Togo",
+          "telephone": "(+228) 70 29 29 50",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat et vente de véhicules."
+        },
+        {
+          "nom": "ROYAL BUSINESS",
+          "adresse": "Rue avant CETEF, Tokoin Habitat, Lomé - Togo",
+          "telephone": "(+228) 22 33 18 33",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules d'occasion."
+        },
+        {
+          "nom": "SABAA AUTO",
+          "adresse": "Agoè Doumasséssé, BP 80222, Lomé - Togo",
+          "telephone": "(+228) 22 30 10 78",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente de véhicules neufs et d'occasion, ainsi que des pièces détachées."
+        },
+        {
+          "nom": "SAFAA MOTORS",
+          "adresse": "Bd. du 13 Janvier, Non loin de Jonquet, Lomé - Togo",
+          "telephone": "(+228) 22 22 22 26",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat et vente de véhicules neufs et d'occasion."
+        },
+        {
+          "nom": "SAIDINA ALI",
+          "adresse": "En face du Lycée Technique d'Agoè, Lomé - Togo",
+          "telephone": "(+228) 22 37 17 02",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente et location de véhicules."
+        },
+        {
+          "nom": "SAJA",
+          "adresse": "Rue des écoles, Non loin de la Poste, Vakpossito, Lomé - Togo",
+          "telephone": "(+228) 22 25 14 44",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat et vente de véhicules d'occasion, ainsi que des pièces détachées."
+        },
+        {
+          "nom": "SAKIM AUTO",
+          "adresse": "Agoè Assiyéyé, BP 80695, Lomé - Togo",
+          "telephone": "(+228) 90 11 80 44",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente et location de véhicules."
+        },
+        {
+          "nom": "SAKINATOU",
+          "adresse": "Bd. Jean-Paul II, Non loin du Collège St Joseph, Lomé - Togo",
+          "telephone": "(+228) 22 50 47 84",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente et location de véhicules."
+        },
+        {
+          "nom": "SAMA AUTO",
+          "adresse": "Rue de l'Hôpital, Non loin du CEG, Vakpossito, Lomé - Togo",
+          "telephone": "(+228) 22 40 26 56",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Achat, vente et location de véhicules."
+        },
+        {
+          "nom": "SAMAO",
+          "adresse": "Non loin du Collège Saint Joseph, Lomé - Togo",
+          "telephone": "(+228) 22 50 47 84",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente et location de véhicules."
+        },
+        {
+          "nom": "SAMY AUTO",
+          "adresse": "Non loin de la Pharmacie Notre Dame de la Paix, Lomé - Togo",
+          "telephone": "(+228) 22 21 67 87",
+          "site_web": "https://www.goafricaonline.com/tg/annuaire/parc-auto",
+          "description": "Vente et location de véhicules."
+        },
+        {
+          "nom": "SANI ABDOU",
+          "adresse": "En face"
+        }
+      ],
+      
+      "Location de voitures": [
+            {
+              "Nom": "SEGAM SARL",
+              "Adresse": "Siège : Bd de la CEDEAO à côté de Funny Parc, face Queen Store, Agoè Anomé, Lomé - Togo",
+              "Téléphone": "(+228) 93 24 79 65",
+              "Description": "SEGAM est une société multi-services et innovante dans le domaine de la location de véhicules. Elle propose une gamme variée de véhicules récents de différentes marques à des prix compétitifs, avec des chauffeurs professionnels. SEGAM offre également des services tels que la location et la vente de voitures, le lavage automobile, l'entretien des véhicules, l'import-export, le négoce, la restauration, le conseil en communication et visibilité, ainsi que la représentation commerciale."
+            },
+            {
+              "Nom": "CARMASTER",
+              "Adresse": "Av Pya, pavé de Djidjolé, à 100m de BOMACO dans la maison du Chef, Djidjolé, Lomé - Togo",
+              "Téléphone": "(+228) 93 79 26 27",
+              "Description": "CARMASTER est une plateforme digitale qui propose des services de location, d'achat et de vente de voitures. Que vous soyez un particulier ou un professionnel, vous trouverez la voiture qui vous convient parmi leur large gamme de véhicules. Ils vous accompagnent également dans la location, l'achat ou la vente de votre voiture, en proposant des solutions adaptées à vos besoins et à votre budget."
+            },
+            {
+              "Nom": "EUROPCAR",
+              "Adresse": "Direction : 2295, rue de l’Entente (Derrière ECOBANK ETI), Ablogamé - 07 BP 13105 Lomé 07, Lomé - Togo",
+              "Téléphone": "(+228) 22 20 77 02",
+              "Description": "Europcar est une entreprise de location de voitures pour les déplacements professionnels ou privés. Ils proposent une large gamme de véhicules répondant à tous les besoins et budgets, avec un service de chauffeur professionnel disponible. Europcar dispose de 4 points d'accueil à Lomé (aéroport, hôtels Onomo et Sarakawa, siège)."
+            },
+            {
+              "Nom": "J BEST CARS SERVICES",
+              "Adresse": "Route Adidogomé douanes à côté de la Pharmacie Actuelle, Sagbado, Lomé - Togo",
+              "Téléphone": "(+228) 92 73 08 87",
+              "Description": "J BEST CARS SERVICES est une entreprise de location de voitures de longue durée et courte durée. Ils interviennent également dans l'achat et la vente de voitures de dernière génération. Ils proposent une large gamme de voitures confortables pour les déplacements professionnels ou privés et les séjours. En plus de la location de voitures, ils proposent également des prestations de services tels que la gestion immobilière, le commerce général et divers autres services."
+            },
+            {
+              "Nom": "KTC TOGO SARL-KARAMON TRADING CENTER",
+              "Adresse": "Bd. Felix Houphouët Boigny face Fucec, Akodésséwa, Lomé - Togo",
+              "Téléphone": "(+228) 92 54 47 85",
+              "Description": "KTC TOGO SARL (KARAMON TRADING CENTER) est une entreprise togolaise spécialisée dans la location et la vente de véhicules d'occasion et neufs, la vente de marchandises diverses, le commerce général, la transformation et la commercialisation des céréales et des produits locaux. Ils offrent une large gamme de voitures confortables pour les déplacements professionnels ou privés et les séjours."
+            },
+            {
+              "Nom": "2KF AUTO",
+              "Adresse": "Voie du grand contournement face camp fir, au bord du goudron non loin du carrefour anokui, Lomé - Togo",
+              "Téléphone": "(+228) 70 66 01 18",
+              "Description": "2KF AUTO est spécialisée dans la vente, l'achat, la location et les transactions d'automobiles, avec possibilité de paiement mensuel pour l'achat de voiture."
+            },
+            {
+              "Nom": "ABMS TOGO SARL",
+              "Adresse": "Voie du Grand Contournement, face à la voie menant au Camp GP, Agoè Sogbossito - 16 BP 130 Agoè-Sogbossito, Lomé - Togo",
+              "Téléphone": "(+228) 96 71 70 70",
+              "Description": "ABMS TOGO SARL propose des services de location de voitures, mais elle est également impliquée dans le shipping, la logistique, le consulting, la vente et la location de voitures."
+            },
+            {
+              "Nom": "ADORES BAT",
+              "Adresse": "Rue. Pendjari, face hôtel la paillote, Tokoin Nukafu, Lomé - Togo",
+              "Téléphone": "(+228) 23 20 38 66",
+              "Description": "ADORES BAT s'occupe de la conception, la construction et la rénovation de bâtiments, la gérance immobilière, l'achat et la vente de terrains, ainsi que la location de voitures."
+            },
+            {
+              "Nom": "AF & CIE",
+              "Adresse": "Bd. du Mono, Rue de la Cachette, face à l'hôtel Sarakawa, Dans l'Imm. de GNLD, Ablogamé - BP 20265, Lomé - Togo",
+              "Téléphone": "(+228) 22 71 40 00",
+              "Description": "AF & CIE est une entreprise spécialisée dans la location de voitures, mais d'autres informations sur leurs services n'étaient pas disponibles."
+            },
+            {
+              "Nom": "AFRIC AUTO",
+              "Adresse": "50, Bd. du 13 Janvier, sur le même alignement que DHL, Nyékonakpoé - BP 3979, Lomé - Togo",
+              "Téléphone": "(+228) 22 22 28 51",
+              "Description": "AFRIC AUTO est une entreprise de location de voitures."
+            }
+      ]
+        
+          
+    },
+"CLOTHING COMPANIES":{
+    "pret_a_porter": [
+        {
+          "nom": "FALKEY'S SHOP",
+          "adresse": "Boulevard Faure Gnassingbé, Carrefour BK 5, Face à la station Oando, Agoè Cacavéli, Lomé - Togo",
+          "telephone": "(+228) 91 81 38 02",
+          "produits": ["Parfumerie", "Sacs pour Dames", "Vente de pagnes et bazins", "Tenues tout cousues pour Hommes", "Vente de vêtements et accessoires Dames"]
+        },
+        {
+          "nom": "BOUTIQUE SABELLE",
+          "adresse": "A côté de Nagode Transfert, en allant à FAN MILK, Agbalépédo, Lomé - Togo",
+          "telephone": "(+228) 90 41 01 01",
+          "produits": ["Chaussures", "Chemises Brodées", "Pagnes Woodins", "Boubous Traditionnels", "Bazins Cousus et non Cousus"]
+        },
+        {
+          "nom": "COCO PRET A PORTER",
+          "adresse": "Bd du 13 Janvier, face la route des vins et à côté de La Villa, Nyékonakpoé, Lomé - Togo",
+          "telephone": "(+228) 93 70 48 46",
+          "services": ["Chapeaux", "Sacs", "Chaussures", "Blazer", "Robes"]
+        },
+        {
+          "nom": "DZIDULA",
+          "adresse": "Agoè plateau à côté de l'Hotel St Mannick, Lomé - Togo",
+          "telephone": "(+228) 90 38 58 44",
+          "services": ["Vente de vêtements en pagne", "Accessoires", "Créateur de mode", "Haute couture", "Prêt à porter"]
+        },
+        {
+          "nom": "MISS RAY BOUTIQUE",
+          "adresse": "Carrefour adroukpapé, face bar restaurant la FIESTA, Avédji, Lomé - Togo",
+          "telephone": "(+228) 90 25 03 62",
+          "produits": ["Accessoires de mode", "Bijoux", "Mode et création", "Robes de sortie", "Prêt-à-porter"]
+        },
+        {
+          "nom": "NOUVELLE MODE",
+          "adresse": "Bd 13 Janvier, juste après les feux tricolores de DHL, en allant vers clinique ALODO – TAY, Immeuble ELECTA, Nyékonakpoé - BP 12665, Lomé - Togo",
+          "telephone": "(+228) 90 11 52 97",
+          "site_web": "http://www.nouvelle-mode.com",
+          "produits": ["Chaussures", "Cravates", "Pantalons", "Chemises", "Costumes"]
+        },
+        {
+          "nom": "PHIL'S PRET A PORTER",
+          "adresse": "Face terrain du lycée d’Agoè sur le boulevard Faure Gnassingbé, Agoè Assiyéyé - 05 BP 736, Lomé - Togo",
+          "telephone": "(+228) 98 83 99 31",
+          "site_web": "http://www.phils-pret-a-porter.com",
+          "produits": ["Hommes", "Dames", "Conseils vestimentaires"]
+        },
+        {
+          "nom": "OLA - LETSE",
+          "adresse": "Bd du 13 Janvier, face Total DHL, Nyékonakpoé, Lomé - Togo",
+          "telephone": "(+228) 90 30 56 77"
+        },
+        {
+          "nom": "BNK BOUTIQUE",
+          "adresse": "A coté de l'immeuble Queen store, Agoè, Lomé - Togo",
+          "telephone": "(+228) 91 99 92 52"
+        },
+        {
+          "nom": "2 POUMONS KETEVO",
+          "adresse": "Adjidogomé, 18 BP 146, S/C 05 BP 456, Lomé - Togo",
+          "telephone": "(+228) 22 52 28 17",
+          "produits": ["Production et Commercialisation de pagne traditionnel KETE"]
+        },
+        {
+          "nom": "20 CENT STYLE",
+          "adresse": "Bd. de la Kara, en face de la Phcie St KISITO, Tokoin Doumasséssé, Lomé - Togo",
+          "telephone": "(+228) 90 73 40 52"
+        },
+        {
+          "nom": "4 SAISONS",
+          "adresse": "Face cité Millénium, Avenue Akei, Tokoin Novissi, Lomé - Togo",
+          "telephone": "(+228) 22 26 85 26"
+        },
+        {
+          "nom": "5TH AVENUE",
+          "adresse": "Av Sylvanus Olympio, non loin de Palm Beach, face à la pharmacie Bel Air, Lomé - Togo",
+          "telephone": "(+228) 92 92 18 81",
+          "produits": ["Prêt à porter hommes et dames", "Vente d'accessoires"]
+        },
+        {
+          "nom": "A'IOVCE SHOP",
+          "adresse": "Route de margot, Avédji, Lomé - Togo",
+          "telephone": "(+228) 90 97 88 23"
+        },
+        {
+          "nom": "ADISS COLLABO",
+          "adresse": "Lomé - Togo",
+          "telephone": "(+228) 93 11 87 93",
+          "produits": ["Vente de tout genre de vêtements, Chaussures, habits pantalon, robes ..."]
+        },
+        {
+          "nom": "AFRIKA PRESTIGE",
+          "adresse": "Klikamé, Lomé - Togo",
+          "telephone": "(+228) 93 23 28 28",
+          "produits": ["Commerce de tenue africaine"]
+        },
+        {
+          "nom": "AHOEVI STYLE",
+          "adresse": "Agbalepedo non loin de la Pharmacie Lumière, Lomé - Togo",
+          "telephone": "(+228) 91 77 83 32"
+        },
+        {
+          "nom": "AICHA FASHION",
+          "adresse": "2186, Av. de la Nouvelle Marche, non loin de la Pharmacie Patience, Tokoin Gbadago, Lomé - Togo",
+          "telephone": "(+228) 92 74 75 86",
+          "produits": ["Prêt-à-porter, tout pour le bazin"]
+        },
+        {
+          "nom": "AKSB COLLECTION",
+          "adresse": "A côté de la Banque Populaire, non loin de l'église Catholique, Bè, Lomé - Togo",
+          "telephone": "(+228) 91 59 83 71",
+          "description": "Nos sommes une boutique de prêt à porter Homme situé à Lomé juste à côté de la banque populaire de Bè. Notre credo c'est la qualité et la satisfaction du clients. Vous pouvez trouver tous ce qui est vêtements d'homme chez nous."
+        },
+        {
+          "nom": "AL DASH SHOP",
+          "adresse": "Avenue de la liberté, Hanoukopé, Lomé - Togo",
+          "telephone": "(+228) 96 95 30 85"
+        },
+        {
+          "nom": "ALAKE ET FILS",
+          "adresse": "En face du Centre Communautaire de Tokoin, Tokoin Ramco, Lomé - Togo",
+          "telephone": "(+228) 90 04 05 09",
+          "description": "Vente de Portables, Casques etc."
+        },
+        {
+          "nom": "ALI VESTE",
+          "adresse": "Rue Sylvanus Olympio, En face de l'Agence Orabank, Grand Marché –Assigamé - BP 1080, Lomé - Togo",
+          "telephone": "(+228) 90 77 12 10",
+          "description": "Vente des Vestes et Chaussures."
+        },
+        {
+          "nom": "ALIDA FASHION HOUSE",
+          "adresse": "Av. des Calais, Non loin de la Phcie Pour Tous, Nyékonakpoé, Lomé - Togo",
+          "telephone": "(+228) 90 09 54 65",
+          "description": "Salon d'esthétique, vente de produits cosmétiques et produits éclaircissants."
+        },
+        {
+          "nom": "ALL DEAL CRB",
+          "adresse": "Bd. du Grand Contournement, en face de la Station Oando, Agoè Sogbossito, Lomé - Togo",
+          "telephone": "(+228) 91 39 56 06"
+        },
+        {
+          "nom": "ALL DESIGN BY A",
+          "adresse": "Route du FTF, Hédzranawoé, Lomé - Togo",
+          "telephone": "(+228) 91 51 79 88"
+        },
+        {
+          "nom": "ALLURE",
+          "adresse": "Bd. de l'Oti, Bè Kpota, Lomé - Togo",
+          "telephone": "(+228) 99 54 47 19",
+          "description": "Vente de Robes de Mariage, de Cérémonie."
+        },
+        {
+          "nom": "AMERICAN CITY (Life Goes on)",
+          "adresse": "Bd. Malfakassa, rond point Agip, Bè Kpota, Lomé - Togo",
+          "telephone": "(+228) 90 26 03 81"
+        },
+        {
+          "nom": "AMI REHOBOTH",
+          "adresse": "Route kara ketao, non loin des Affaires socials, Tomde, Kara - Togo",
+          "telephone": "(+228) 90 21 23 49"
+        },
+        {
+          "nom": "AMY BOUTIQUE TOGO",
+          "adresse": "Bd. Léopold Sédar Senghor, En Face de SOS d'Enfants, Tokoin Forever, Lomé - Togo",
+          "telephone": "(+228) 93 70 32 64",
+          "produits": ["Prêt à porter Homme-Dame-Enfant", "Accessoires pour Femmes Voilées."]
+        },
+        {
+          "nom": "ANAMATA Sarl-U",
+          "adresse": "Super-Taco - BP 13647, Lomé - Togo",
+          "telephone": "(+228) 22 56 01 02",
+          "site_web": "http://www.anamata-togo.com"
+        }
+    ]
+    ,
+    "lingeries": [
+        {
+          "nom": "E&D BY OCEANE BEAUTY",
+          "adresse": "En face de Nathanaël, Adidoadin, Lomé - Togo",
+          "telephone": "(+228) 97 17 00 06"
+        },
+        {
+          "nom": "EAGLE HOLDING Sarl",
+          "adresse": "A 200m de la Nvlle Cour d'Appel, En allant vers BKS, Non loin de l'Ecole Mariam, à côté du petit Mosquée, Agoè Cacavéli - 05 BP 179 Lomé 05, Lomé - Togo",
+          "telephone": "(+228) 22 37 71 33"
+        },
+        {
+          "nom": "ETS FAYA'S",
+          "adresse": "Bd. Jean Paul II, à côté de la Phcie Gbeze, en face du Canal +, Tokoin Novissi - BP 4828, Lomé - Togo",
+          "telephone": "(+228) 22 41 70 63"
+        },
+        {
+          "nom": "ETS GILCO",
+          "adresse": "Route d'Aneho, boutique A3, Centre Commercial la Colombe ex Hollando, Grand Marché –Assigamé, Lomé - Togo",
+          "telephone": "(+228) 90 47 18 25"
+        },
+        {
+          "nom": "ETS GOD GIFT",
+          "adresse": "Pharmacie du grand marché, 1ere Etage, Lomé - Togo",
+          "telephone": "(+228) 90 16 15 10"
+        },
+        {
+          "nom": "ETS HONNEUR AUX SEINS",
+          "adresse": "Rue de l'Eglise, Adawlato, Lomé - Togo",
+          "telephone": "(+228) 90 17 81 53"
+        },
+        {
+          "nom": "ETS MEGGY STORE",
+          "adresse": "436, Rue de France, derrière la Pharmacie du Boulevard, Dékon - BP 1073, Lomé - Togo",
+          "telephone": "(+228) 22 21 53 53"
+        },
+        {
+          "nom": "ETS VANELLI",
+          "adresse": "89, Bd. du 13 Janvier, Près de la CNTT, Hanoukopé, BP 20188, Lomé - Togo",
+          "telephone": "(+228) 22 21 65 13"
+        },
+        {
+          "nom": "ETS WISDOM CITY",
+          "adresse": "Carrefour Assiyéyé, Route Zanguéra, Logopé, Lomé - Togo",
+          "telephone": "(+228) 22 45 92 16"
+        },
+        {
+          "nom": "L'ILE AUX ENFANTS",
+          "adresse": "406, Bd. du 13 Janvier, Non loin de l'ancienne LONATO, Nyékonakpoé - BP 4747, Lomé - Togo",
+          "telephone": "(+228) 22 32 77 47"
+        },
+        {
+          "nom": "LE BOUDOIR DE LOU",
+          "adresse": "Bd. Jean Paul II, face à l'entrée du camp Lomé II, Hédzranawoé, Lomé - Togo",
+          "telephone": "(+228) 99 11 48 88",
+          "description": "Conseil conjugal, conseil et assistance prénuptiale, soirée mensuelle pour la femme mariées, ventes privées d'articles ludiques pour les couples mariés."
+        },
+        {
+          "nom": "MINOU TOGO",
+          "adresse": "Rue DR.F.J. STRAUSSE Face à côté du lycée français porte N°5, Nyékonakpoé, Lomé - 99345 - Togo",
+          "telephone": "(+228) 70 70 41 41",
+          "site_web": "http://www.minoutogo.com"
+        },
+        {
+          "nom": "NEW LOOK",
+          "adresse": "113, Bd. du 13 Janvier, à côté de Bon Samaritain, Nyékonakpoé - 10 BP 10126 Lomé 10, Lomé - Togo",
+          "telephone": "(+228) 22 21 39 55"
+        },
+        {
+          "nom": "PETIT PIRATE",
+          "adresse": "Bd. du 13 Janvier, à coté de Fidelia Assurances, non loin de la Banque Populaire, BP 12759, Lomé - Togo",
+          "telephone": "(+228) 90 07 41 15",
+          "description": "Pret à porter pour Homme, dame et enfant. Marques européennes."
+        },
+        {
+          "nom": "PRESTIGE LINGERIE",
+          "adresse": "Dans la von de la BTCI, face au 5ème rue à droite, Agbalépédo, Lomé - Togo",
+          "telephone": "(+228) 97 92 78 97",
+          "description": "Lingerie spécialisée dans la vente en gros et détails des sous-vêtements, hommes-femmes, enfants; conseils en lingerie et divers."
+        },
+        {
+          "nom": "STE AMBO Sarl",
+          "adresse": "365, Rue du Chemin de Fer, derrière Brother Home, non loin de la TDE, 03 BP 30180 Lomé, Lomé - Togo",
+          "telephone": "(+228) 90 56 47 47",
+          "description": "Lingerie, commerce général, cométique, bijouterie."
+        }
+    ]
+    ,
+    "tissus_et_textiles": [
+            {
+              "nom": "3G(GOLDEN GLOBAL GROUP)",
+              "adresse": "Rue du Bar Plateau, Agoè Téléssou, Lomé - 22 BP 329 Lomé 22 - Togo",
+              "telephone": "(+228) 91 44 83 67"
+            },
+            {
+              "nom": "ABA SARL U",
+              "adresse": "Adidogomé Wessome, Lomé - Togo",
+              "telephone": "(+228) 90 58 99 21",
+              "site_web": "http://www.abasarlu.com",
+              "description": "Spécialisé dans la production la vente des vêtements professionnels de travail pour divers secteurs d'activités, nous veillons à apporter à chaque structure une solution sur mesure : choix d’un style en cohérence avec les valeurs de la structure (CLINIQUE, RESTAURANT, ÉCOLE, UNIVERSITÉ, ENTREPRISE DE BTP, USINE)."
+            },
+            {
+              "nom": "ALEXANDRA BEAUTY",
+              "adresse": "Bd Houphouet Boigny, à coté de la banque atlantique, Bè, Lomé - Togo",
+              "telephone": "(+228) 97 08 33 75"
+            },
+            {
+              "nom": "AWUA",
+              "adresse": "Tokoin SOTED, non loin du petit portail du camp GG, Lomé - Togo",
+              "telephone": "(+228) 98 42 30 38",
+              "description": "AWUA marque de vêtements streetwear; Soyez fiers d'être Africain et revisitez le Togo a travers nos vêtements et accessoires. De beaux t-shirts, des sacoches, des casquettes des bobs à l'effigie de nos villes..."
+            },
+            {
+              "nom": "AYANEX & PLASSI CORPORATION",
+              "adresse": "Route Léo 2000, Adidoadin, Lomé - Togo",
+              "telephone": "(+228) 92 27 86 54"
+            },
+            {
+              "nom": "BABY LUXE",
+              "adresse": "Commune de Tsévié plus précisément a Baktopé avant le lycée de baktopé, Tsévié - Togo",
+              "telephone": "(+228) 93 04 22 48",
+              "description": "Notre société est une société de fabrications de draps et des habits pour enfants de 0 a 3 ans. Avec nous, vous pouvez imaginer les draps ou les habits de vos Bébés et nous les décrire pour que nous puissions les réaliser conformément à votre imagination."
+            },
+            {
+              "nom": "CATHINA HOUSE INTERNATIONAL",
+              "adresse": "Non loin de la salle du royaume des Témoins de Jéhovah, Totsi Gblenkomé - 24 BP 34, Lomé - Togo",
+              "telephone": "(+228) 99 64 19 05",
+              "description": "VENTE DE PAGNE TISSE, DES POLOS EN PAGNE TISSE, CHEMISE EN PAGNE TISSE ET ACCESSOIRE EN PAGNE TISSE"
+            },
+            {
+              "nom": "CATHY LINE",
+              "adresse": "Rue Dissi, non loin de Orabank, Adidogomé Avé Maria, Lomé - Togo",
+              "telephone": "(+228) 90 38 38 10",
+              "description": "Vente de produits Woodin et divers."
+            },
+            {
+              "nom": "CELIA INSPIRATION",
+              "adresse": "Gbossimé non loin de la pharmacie, Lomé - Togo",
+              "telephone": "(+228) 90 18 40 93"
+            },
+            {
+              "nom": "COIN DES CONNAISSEURS",
+              "adresse": "Assigamé holando-BATIMENT HALIDOU, Lomé - 08 BP 8100 - Togo",
+              "telephone": "(+228) 91 03 20 03",
+              "description": "Prêt à porter, spécialisé en streetwear, chemises, t-shirts, pantalons, shorts, jackets, boxers, montres, baskets, casquettes et autres."
+            },
+            {
+              "nom": "DISTRIBUTION EPI",
+              "adresse": "Rue des Calais à 50m de la Pharmacie Pour Tous, Nyékonakpoé - BP 12693, Lomé - Togo",
+              "telephone": "(+228) 22 22 08 18",
+              "description": "Vêtements de travail et divers."
+            },
+            {
+              "nom": "DLF SHOP",
+              "adresse": "-", "Bè Kpota - 07 BP 12814, Lomé - Togo",
+              "telephone": "(+228) 92 31 32 68",
+              "description": "Vente de vêtements homme-femme."
+            },
+            {
+              "nom": "EDIMA FASHION",
+              "adresse": "Agbalépédo non loin de la Pharmacie Vigueur, Agbalépédo, Lomé - 01 BP 4125 Lomé 01 - Togo",
+              "telephone": "(+228) 93 98 77 77",
+              "description": "Nous sommes une boutique de vêtements et accessoires afro-contemporains, femmes, hommes et enfants. Livraison à domicile."
+            },
+            {
+              "nom": "ELITEX",
+              "adresse": "Leo 2000, Avédji - 18 BP 316, Lomé - Togo",
+              "telephone": "(+228) 90 03 00 93",
+              "description": "Vente en gros de pagnes."
+            },
+            {
+              "nom": "ETS AU QUAI DES MARQUES",
+              "adresse": "Rue des antilopes, 100m après le Restaurants Chez le Boss, Amadahomé, Lomé - Togo",
+              "telephone": "(+228) 90 83 13 93",
+              "description": "Import - Export, vente de sacs et accessoires pour femme."
+            },
+            {
+              "nom": "ETS DIVINE FAVOUR",
+              "adresse": "Bd. de la Kara non loin de la clinique le Printemps, Tokoin Doumasséssé, Lomé - Togo",
+              "telephone": "(+228) 91 64 94 82"
+            },
+            {
+              "nom": "ETS GAUDETE",
+              "adresse": "Marché de Awotomé, non loin de la station des zémidjan, Immeubles TI2A Sarl, Adidogomé, Lomé - Togo",
+              "telephone": "(+228) 96 10 94 29",
+              "description": "Distribution en gros et en détail des pagnes WOODIN."
+            },
+            {
+              "nom": "ETS LA BENEDICTION",
+              "adresse": "Rue du Grand Marché Sakomi, près de Sakomi, Assivito, Lomé - Togo",
+              "telephone": "(+228) 90 17 46 73",
+              "description": "Vente de tissus de mariage, dot civil, pagne traditionnel, des bazins et autres tissus."
+            },
+            {
+              "nom": "ETS LA GLOIRE DE DIEU",
+              "adresse": "Rue du Grand Marché, Adawlato, Lomé - Togo",
+              "telephone": "(+228) 98 45 65 75",
+              "description": "Vente de pagnes en gros et en détails."
+            },
+            {
+              "nom": "ETS MODOUKPE",
+              "adresse": "Bd CEDEAO, face à l'EPP Agoè-Marché, Agoè Assiyéyé, Lomé - Togo",
+              "telephone": "(+228) 90 17 97 15",
+              "description": "Conception et vente en gros et détail de tissus de tout genre, rideaux, draps et accessoires."
+            },
+            {
+              "nom": "FADJIB HOME",
+              "adresse": "Bd. du 13 Janvier, face au restaurant Akif, Aguiarkomé, Lomé - Togo",
+              "telephone": "(+228) 90 11 96 72",
+              "description": "Vente de draps, couvre-lits, moquettes, rideaux, tapis, lingeries et vêtements."
+            },
+            {
+              "nom": "FELI FASHION",
+              "adresse": "Route Adidogomé - Avédji, Avédji, Lomé - Togo",
+              "telephone": "(+228) 92 37 35 55"
+            },
+            {
+              "nom": "FLOO",
+              "adresse": "-", "Lomé - 48250 - Togo",
+              "telephone": "(+228) 79 47 20 92",
+              "description": "Des vêtements, collier et bague."
+            },
+            {
+              "nom": "FRIPERIE CO",
+              "adresse": "En face du Siège de Moov Africa, Lomé - 80891 - Togo",
+              "telephone": "(+228) 97 72 65 65",
+              "description": "FRIPERIE CO est une entreprise friperie comme son nom l'indique. Nous ne vendons que des vêtements de classe A, communément appelés premier Choix."
+            },
+            {
+              "nom": "JOJO HOUSE",
+              "adresse": "En face de MAËLYS CAR, Agoè Anomé, Lomé - Togo",
+              "telephone": "(+228) 90 48 36 43",
+              "description": "JOJO HOUSE est une boutique spécialisée dans la commercialisation de pagnes et de mèches en provenance du Bénin, du Ghana, du Nigeria, de la Belgique et de l’Allemagne. Nous vous proposons différents types de pagnes : WAX hollandais - CHIGANVY - GTP - HOLANTEX – AVOGAN etc. Des motifs et dessins divers avec un meilleur rapport qualité – prix.",
+              "produits": ["Vlisco", "Hollantex", "GTP", "Chiganvy", "Avogan"]
+            },
+            {
+              "nom": "KCK REINE DES PERLES",
+              "adresse": "Hédzranawoé, à côté de l'agence Togocel à 100m de la pharmacie Bien-Être, Lomé - Togo",
+              "telephone": "(+228) 92 16 35 04",
+              "site_web": "https://kckreinedesperles.com",
+              "description": "Boutique de Vêtements et accessoires Mode."
+            },
+            {
+              "nom": "L'AURORE SL",
+              "adresse": "Bd du 13 Janvier, non loin du commissariat central, Lomé - Togo",
+              "telephone": "(+228) 90 34 06 56",
+              "description": "Vente des tissus dentels et les pagnes."
+            },
+            {
+              "nom": "LA MAISON DU BAZIN",
+              "adresse": "Av de la Libération, Rue 333, grand Marché, Lomé - Togo",
+              "telephone": "(+228) 90 70 50 52",
+              "description": "Vente de Bazin riches."
+            },
+            {
+              "nom": "LIKAWASHOES",
+              "adresse": "Lomé, Lomé - Togo",
+              "telephone": "(+228) 93 80 39 07"
+            },
+            {
+              "nom": "LUMIR",
+              "adresse": "Av Pya, Djidjolé, Lomé - Togo",
+              "telephone": "(+228) 90 23 24 87",
+              "description": "Société de Vente de pagnes et divers."
+            }
+    ]
+   },
+   "FURNITURE AND HOME DECORATION COMPANIES": {
+    "magasins_meubles_deco": [
+      {
+        "nom": "Promostore Deco",
+        "adresse": "Lomé",
+        "telephone": "22 20 80 29",
+        "services": ["Achats en magasin", "Retrait en magasin", "Livraison"]
+      },
+      {
+        "nom": "Deutsch Meuble Design",
+        "adresse": "Lomé",
+        "telephone": "90 25 99 22",
+        "horaires": "Fermé ⋅ Ouvre à 08:30 lun."
+      },
+      {
+        "nom": "Awale Meuble Design",
+        "adresse": "Lomé",
+        "telephone": "90 09 75 42",
+        "horaires": "Fermé ⋅ Ouvre à 08:30 lun.",
+        "services": ["Achats en magasin", "Livraison"]
+      },
+      {
+        "nom": "Kris Home Decor",
+        "adresse": "Lomé",
+        "telephone": "98 11 98 10",
+        "horaires": "Fermé ⋅ Ouvre à 08:00 lun.",
+        "services": ["Services sur place", "Devis en ligne"]
+      },
+      {
+        "nom": "ETUDE GAF",
+        "adresse": "Lomé",
+        "telephone": "90 16 85 73",
+        "horaires": "Fermé ⋅ Ouvre à 07:30 lun.",
+        "services": ["Achats en magasin", "Livraison"]
+      },
+      {
+        "nom": "SOTRAEC BTP",
+        "telephone": "90 16 88 55",
+        "horaires": "Fermé ⋅ Ouvre à 07:00 lun.",
+        "services": ["Achats en magasin", "Retrait en magasin", "Livraison"]
+      },
+      {
+        "nom": "EDEM D'Eden - Ameublement",
+        "adresse": "Lomé",
+        "telephone": "92 24 18 14",
+        "horaires": "Fermé ⋅ Ouvre à 07:00 lun.",
+        "services": ["Achats en magasin", "Retrait en magasin", "Livraison"]
+      },
+      {
+        "nom": "I.MA.S",
+        "adresse": "Lomé",
+        "telephone": "96 17 00 82",
+        "services": ["Achats en magasin", "Livraison"]
+      },
+      {
+        "nom": "VINZTECH",
+        "telephone": "79 93 41 00",
+        "horaires": "Fermé ⋅ Ouvre à 08:00 lun.",
+        "services": ["Achats en magasin", "Livraison"]
+      },
+      {
+        "nom": "AGENCE Ello",
+        "adresse": "Lomé",
+        "telephone": "22 26 10 56",
+        "horaires": "Fermé ⋅ Ouvre à 08:00 lun.",
+        "services": ["Achats en magasin", "Livraison"]
+      },
+      {
+        "nom": "SHOWROOM ASHFOAM",
+        "adresse": "Lomé",
+        "telephone": "90 51 09 15",
+        "services": ["Achats en magasin", "Livraison"]
+      },
+      {
+        "nom": "N'GOZI GROUP SARL",
+        "adresse": "Lomé",
+        "telephone": "91 97 95 89"
+      },
+      {
+        "nom": "MEKIB INT",
+        "adresse": "Lomé",
+        "services": ["Achats en magasin"]
+      },
+      {
+        "nom": "Home Design",
+        "adresse": "Lomé",
+        "services": ["Achats en magasin", "Livraison"]
+      },
+      {
+        "nom": "GALERIE LOFT",
+        "adresse": "Lomé",
+        "telephone": "22 21 15 11",
+        "services": ["Achats en magasin", "Livraison"]
+      },
+      {
+        "nom": "GALERIE CONFORTIUM",
+        "adresse": "Lomé",
+        "telephone": "22 21 99 90",
+        "description": "Nice place for home and office furniture. Nice collection.",
+        "services": ["Achats en magasin", "Livraison"]
+      },
+      {
+        "nom": "Assaba: cuisine et meubles sur mesure à Lomé",
+        "adresse": "Lomé",
+        "telephone": "91 54 66 66",
+        "services": ["Devis en ligne"]
+      },
+      {
+        "nom": "Togolaise Des Meubles",
+        "adresse": "Lomé",
+        "telephone": "70 75 43 15",
+        "services": ["Livraison"]
+      }
+    ]
+  }
+  
+   
+}  
